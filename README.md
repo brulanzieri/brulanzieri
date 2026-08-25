@@ -34,4 +34,4 @@
 <br />
 
 <!-- Animação Snake -->
-![Snake animation](https://github.com/brulanzieri/brulanzieri/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/brulanzieri/brulanzieri/output/github-contribution-grid-snake.svg)
