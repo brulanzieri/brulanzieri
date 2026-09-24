@@ -2,12 +2,8 @@
 
 <!-- Cards de Estatísticas e Linguagens -->
 <p align="left">
-  <img height="140" src="https://github-stats-extended.vercel.app/?username=brulanzieri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https:// github-stats-extended.vercel.app/top-langs/?username=brulanzieri&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas" />
-
-  <img height="140" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
-
+  <img height="140" src="https://github-stats-extended.vercel.app/api?username=brulanzieri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brulanzieri&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 <br />
