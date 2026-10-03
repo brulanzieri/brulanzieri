@@ -1,5 +1,7 @@
 <h1>Bem-vindo(a) ao meu perfil! 👋</h1>
 
+> **"Com um pouco de criatividade tudo pode ser planejado!"**
+
 <!-- Cards de Estatísticas e Linguagens -->
 <p align="left">
   <img height="140" src="https://github-stats-extended.vercel.app/api?username=brulanzieri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
