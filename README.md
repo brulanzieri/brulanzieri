@@ -29,22 +29,21 @@ Studying
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </p>
-</p>
 
 <br />
 
 ## 🔗 Connect with Me
 
-<!-- Badges de Redes Sociais -->
-<p>
+<!-- Redes Sociais / Devicons -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/brulanzieri" target="_blank">
+    <img alt="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  </a>
   <a href="https://instagram.com/brulanzieri" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img alt="Instagram" height="30" width="30" src="https://cdn.simpleicons.org/instagram/E4405F" />
   </a>
   <a href="mailto:contato.brulanzieri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/brulanzieri" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img alt="Gmail" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />
   </a>
 </p>
 
