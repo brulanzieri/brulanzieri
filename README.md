@@ -1,12 +1,14 @@
-<h1>Bem-vindo(a) ao meu perfil! 👋</h1>
+<h1>Welcome to my GitHub! 👋</h1>
 
-> **"Com um pouco de criatividade tudo pode ser planejado!"**
+> **"With a little creativity, everything can be planned!"**
 
 <!-- Cards de Estatísticas e Linguagens -->
 <p align="left">
   <img height="140" src="https://github-stats-extended.vercel.app/api?username=brulanzieri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brulanzieri&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas" />
 </p>
+
+## 💻 Tech Stack
 
 <br />
 
@@ -19,7 +21,19 @@
 
 <br />
 
-### 📬 Contato disponível nas redes abaixo!
+Studying
+<p align="left">
+  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</p>
+</p>
+
+<br />
+
+## 🔗 Connect with Me
 
 <!-- Badges de Redes Sociais -->
 <p>
@@ -38,3 +52,8 @@
 
 <!-- Animação Snake -->
 ![Snake animation](https://raw.githubusercontent.com/brulanzieri/brulanzieri/output/github-contribution-grid-snake.svg)
+
+
+---
+
+⭐ If you liked it, please star my repositories! It motivates me to create even more amazing content.
